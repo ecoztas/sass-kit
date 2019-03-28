@@ -1,0 +1,17 @@
+{
+    "name": "sass-kit",
+    "version": "1.0.0",
+    "description": "SASS - Development Files Structure",
+    "main": "index.js",
+    "repository": "https://github.com/oztasemrecan/sass-kit",
+    "author": "Emre Can ÖZTAŞ <me@emrecanoztas.com>",
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-sass": "^4.0.2",
+        "gulp-cssmin": "^0.2.0",
+        "gulp-plumber": "^1.2.0",
+        "gulp-rename": "^1.4.0"
+    },
+}
