@@ -19,7 +19,7 @@ gulp.task('default', function () {
 // TASK: SASS
 gulp.task('sass', function () {
     return (
-        gulp.src('sass/application.scss')
+        gulp.src('./theme.scss')
             .pipe(plumber())
             .pipe(sass())
             .pipe(gulp.dest('styles'))
