@@ -11,7 +11,7 @@ var cssmin = require('gulp-cssmin');
 var plumber = require('gulp-plumber');
 var rename = require('gulp-rename');
 
-// TASK: DEFAULT
+// TASK: Default
 gulp.task('default', function () {
     console.log('Works fine!');
 });
