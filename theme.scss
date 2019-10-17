@@ -8,10 +8,9 @@
 @charset 'utf-8';
 
 // Import file (s).
-@import './sass/_core.scss';
-@import './sass/_functions.scss';
-@import './sass/_base.scss';
+@import './sass/_params.scss';
+@import './sass/_mixins.scss';
+@import './sass/_skeleton.scss';
 @import './sass/_layouts.scss';
 @import './sass/_modules.scss';
 @import './sass/_states.scss';
-@import './sass/_custom.scss';
