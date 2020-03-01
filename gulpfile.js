@@ -1,9 +1,3 @@
-/**
- * -----------------------------------------------------------------------------
- * gulpfile.js
- * Author: Emre Can ÖZTAŞ <me@emrecanoztas.com>
- * -----------------------------------------------------------------------------
- */
 // DEFINE: Package(s).
 var gulp = require('gulp');
 var sass = require('gulp-sass');

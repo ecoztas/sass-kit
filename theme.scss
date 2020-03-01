@@ -1,14 +1,8 @@
-/**
- * -----------------------------------------------------------------------------
- * theme.scss
- * Author: Emre Can ÖZTAŞ <me@emrecanoztas.com>
- * -----------------------------------------------------------------------------
- */
 // Set charset (UTF-8)
 @charset 'utf-8';
 
 // Import file (s).
-@import './sass/_params.scss';
+@import './sass/_variables.scss';
 @import './sass/_mixins.scss';
 @import './sass/_skeleton.scss';
 @import './sass/_layouts.scss';
