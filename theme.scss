@@ -2,9 +2,9 @@
 @charset 'utf-8';
 
 // Import file (s).
-@import './sass/_variables.scss';
-@import './sass/_mixins.scss';
-@import './sass/_skeleton.scss';
-@import './sass/_layouts.scss';
-@import './sass/_modules.scss';
-@import './sass/_states.scss';
+@import 'app/variables';
+@import 'app/mixins';
+@import 'app/skeleton';
+@import 'app/layouts';
+@import 'app/modules';
+@import 'app/states';
